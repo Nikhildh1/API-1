@@ -21,6 +21,7 @@ const details = {
   email: 'nikhil0947.be21@chitkara.edu.in',
   rollNumber: 2110990947,
   phone: 9896891356,
+  github_link: 'https://github.com/Nikhildh1/API-1',
 };
 
 createAccount(apiend, details);
